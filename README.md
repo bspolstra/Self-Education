@@ -1,0 +1,3 @@
+This is the beginning of my portfolio. This too shall serve as a journal of self-education for my career as a software engineer. Most importantly, this holds as a proclaimation for my commmitment to this education. 
+
+More to come...
